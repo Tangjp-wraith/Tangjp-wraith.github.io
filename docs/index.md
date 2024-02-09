@@ -1,17 +1,20 @@
-# Welcome to MkDocs
+---
+statistics: true
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# 👋欢迎
 
-## Commands
+## 📒关于笔记
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+**这个笔记本更像一个助记簿**，只会记录写自己学习过程中觉得十分重要的知识，方便自己查阅，可能并不适合他人。
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+???+ example "📚内容分类"
+    - [C++学习](cpp/index.md)
+          - C++零碎杂记
+          - Effective Modern C++ 阅读笔记
+
+
+!!! info ""
+
+    本站共有 {{ pages }} 个页面，{{ words }} 个字，{{ codes }} 行代码。
