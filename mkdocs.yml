@@ -10,7 +10,9 @@ nav:
         - 数组指针与函数指针: cpp/零碎杂记/数组指针与函数指针.md
       - Effective Modern C++:
         - item1：理解模板类型推导: cpp/effective/item1：理解模板类型推导.md
+        - item2：理解auto类型推导: cpp/effective/item2：理解auto类型推导.md
         - item7：区别使用()和{}创建对象: cpp/effective/item7：区别使用()和{}创建对象.md
+        - item9：优先考虑别名声明而非typedef:  cpp/effective/item9：优先考虑别名声明而非typedef.md
         
 
   # - Golang:
