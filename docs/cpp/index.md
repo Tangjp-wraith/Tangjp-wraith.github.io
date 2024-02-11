@@ -8,19 +8,21 @@
 ???+ Abstract "Effective Modern C++"
     **Deducing Types**
 
-    - [item1：理解模板类型推导](./effective/item1：理解模板类型推导.md)
-    - [item2：理解auto类型推导](./effective/item2：理解auto类型推导.md)
+    - [item1：理解模板类型推导](./effective/item1.md)
+    - [item2：理解auto类型推导](./effective/item2.md)
 
     **auto**
 
     **Moving to Modern C++**
 
-    - [item7：区别使用()和{}创建对象](./effective/item7：区别使用()和{}创建对象.md)
-    - [item9：优先考虑别名声明而非typedef](./effective/item9：优先考虑别名声明而非typedef.md)
+    - [item7：区别使用()和{}创建对象](./effective/item7.md)
+    - [item9：优先考虑别名声明而非typedef](./effective/item9.md)
 
     **Smart Pointers**
 
     **Rvalue References, Move Semantics, and Perfect Forwarding**
+
+    - [item23：理解std::move和std::forward](./effective/item23.md)
 
     **Lambda Expressions**
 
