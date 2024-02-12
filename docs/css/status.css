@@ -53,7 +53,7 @@ article sup a[href^="https://"]::after {
     background-size: contain;
     display: inline-block;
 }
-article a[href^="https://github.com/xuan-insr/xuan-insr.github.io"]::after {
+article a[href^="https://github.com/Tangjp-wraith/Tangjp-wraith.github.io"]::after {
     display: none !important;
 }
 
