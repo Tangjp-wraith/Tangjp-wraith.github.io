@@ -15,6 +15,12 @@ nav:
           - item9：优先考虑别名声明而非typedef: cpp/effective/item9.md
           - item23：理解std::move和std::forward: cpp/effective/item23.md
 
+  - OS:
+      - os/index.md
+      - 操作系统：原理与实现:
+          - 操作系统简介: os/银杏书/intro.md
+        
+
   # - Golang:
   #     - go/index.md
 
