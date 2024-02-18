@@ -24,6 +24,11 @@ nav:
           - 操作系统简介: os/银杏书/intro.md
           - ARM64硬件结构与系统接口: os/银杏书/硬件结构.md
         
+  - Database:
+      - db/index.md
+      - CMU15-445:
+          - Database Storage I: db/cmu15445/L3.md
+          - Database Storage II: db/cmu15445/L4.md
         
 
   # - Golang:
@@ -75,8 +80,6 @@ markdown_extensions:
   - toc:
       permalink: true # link for each title
       slugify: !!python/name:pymdownx.slugs.uslugify # enable Unicode link
-
-
   - admonition
   - abbr
   - attr_list
