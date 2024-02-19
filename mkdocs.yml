@@ -29,7 +29,15 @@ nav:
       - CMU15-445:
           - Database Storage I: db/cmu15445/L3.md
           - Database Storage II: db/cmu15445/L4.md
-        
+          - Buffer Pools: db/cmu15445/L5.md
+          - Hash Tables: db/cmu15445/L6.md
+          - Trees Indexes I: db/cmu15445/L7.md
+          - Trees Indexes II: db/cmu15445/L8.md
+          - Index Concurrency Control: db/cmu15445/L9.md
+          - Sorting + Aggregations: db/cmu15445/L10.md
+          - Joins Algorithms: db/cmu15445/L11.md
+          - Query Execution I: db/cmu15445/L12.md
+          - Query Execution II: db/cmu15445/L13.md
 
   # - Golang:
   #     - go/index.md
